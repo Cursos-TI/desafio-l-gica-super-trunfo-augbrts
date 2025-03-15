@@ -21,7 +21,6 @@ int main() {
 
     // Comparação das propriedades
     printf("\nComparação de cartas (Atributo: População):\n");
-
     if (populacao1 > populacao2) {
         printf("Resultado: Carta (%s) venceu!\n", cidade1);
     } else if (populacao1 < populacao2) {
